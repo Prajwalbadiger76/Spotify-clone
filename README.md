@@ -13,4 +13,3 @@ I’m excited to share my latest project where I rebuilt a Spotify-like web inte
 
 This project has been a fantastic learning experience and has significantly enhanced my front-end development skills. Looking forward to applying these skills to future projects!
 
-#WebDevelopment #HTML #CSS #Frontend #UIUX #Flexbox #FontAwesome #CodingJourney #ProjectShowcase
