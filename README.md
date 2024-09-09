@@ -1,4 +1,4 @@
-#Project:Spotify-Clone from Scratch 
+CSS-Project : Spotify Clone
 
 I’m excited to share my latest project where I rebuilt a Spotify-like web interface using just HTML and CSS! This journey was an excellent opportunity to deepen my understanding of web design principles and tackle real-world challenges.
 
