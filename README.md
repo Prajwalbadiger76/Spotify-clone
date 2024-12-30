@@ -49,8 +49,3 @@ A visually stunning and responsive Spotify-like web interface built with **HTML*
 
 Contributions, issues, and suggestions are welcome! Feel free to fork this repository and submit a pull request.
 
-
----
-
-This README not only describes your project effectively but also demonstrates professionalism. Let me know if you'd like to make any changes! 😊
-
